@@ -4,3 +4,9 @@ nav{
 #logo{
     background-color: black;
 }
+a{
+    color:darkblue;
+}
+a:hover{
+    color: darkmagenta;
+}
