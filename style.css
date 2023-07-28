@@ -1,12 +1,42 @@
 nav{
-    background-color: black;
+    background-color: #090580;
 }
 #logo{
     background-color: black;
+}
+body{
+    background-color: #F4D3D3;
 }
 a{
     color:darkblue;
 }
 a:hover{
     color: darkmagenta;
+}
+
+#qualifications{
+    background-color: #46458C;
+    color: #000;
+}
+#experiences{
+    background-color: #E8A9A9;
+}
+#projects{
+    background-color: #46458C;
+    color: #000;
+}
+#skills{
+    background-color: #46458C;
+    color: #000;
+}
+#hobbies{
+    background-color:#E8A9A9;
+    color: #000;
+}
+#contact{
+    background-color: #46458C;
+    color: #000;
+}
+#photo{
+    background-color: #E8A9A9;
 }
