@@ -1,4 +1,4 @@
-nav{
+#nav{
     background-color: black;
 }
 #logo{
@@ -8,10 +8,10 @@ body{
     background-color: whitesmoke;
 }
 a{
-    color:darkblue;
+    color:black;
 }
 a:hover{
-    color: darkmagenta;
+    color:grey;
 }
 
 #qualifications{
