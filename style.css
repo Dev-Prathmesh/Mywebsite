@@ -1,11 +1,11 @@
 nav{
-    background-color: #090580;
+    background-color: black;
 }
 #logo{
     background-color: black;
 }
 body{
-    background-color: #F4D3D3;
+    background-color: whitesmoke;
 }
 a{
     color:darkblue;
@@ -15,28 +15,30 @@ a:hover{
 }
 
 #qualifications{
-    background-color: #46458C;
-    color: #000;
+    background-color: #000;
+    color: #FFFFFF;
 }
 #experiences{
-    background-color: #E8A9A9;
+    background-color: #FFFFFF;
+    color: #000;
+
 }
 #projects{
-    background-color: #46458C;
-    color: #000;
+    background-color: #000;
+    color: #FFFFFF;
 }
 #skills{
-    background-color: #46458C;
-    color: #000;
+    background-color: #000;
+    color: #FFFFFF;
 }
 #hobbies{
-    background-color:#E8A9A9;
+    background-color:#FFFFFF;
     color: #000;
 }
 #contact{
-    background-color: #46458C;
-    color: #000;
+    background-color: #000;
+    color: #FFFFFF;
 }
 #photo{
-    background-color: #E8A9A9;
+    background-color: #FFFFFF;
 }
